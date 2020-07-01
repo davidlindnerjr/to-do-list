@@ -1,0 +1,141 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}/*Remove default styling from documnet*/
+
+header{
+    font-size: 1.5em;
+}
+
+header,form{
+    min-height: 20vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+body{
+    background-image: linear-gradient(120deg, #0099ff, #cccccc);
+    color:white;
+    font-family: 'Poppins', sans-serif;
+    min-height:100vh;
+}
+
+form input, form button{
+    padding:0.5em;
+    font-size:2em;
+    border:0;
+    outline-width:0;
+    background:white;
+}
+
+form button{
+    color:#cccccc;
+    background:white;
+    cursor:pointer;
+    transition: all 0.3s ease;
+}
+
+form button:hover{
+    background:#cccccc;
+    color:white;
+}
+
+.todoDisplay{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.todoList{
+    min-width:30%;
+    list-style:none;
+}
+
+.todo{
+    margin:0.5em;
+    background:white;
+    color:black;
+    font-size:1.5em;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    transition: all 0.3s ease
+}
+
+.todo li{
+    flex:1; /*pushes buttons to the end*/
+}
+
+.deleteButton, .completeButton{
+    background:dodgerblue;
+    color:white;
+    border:none;
+    padding:1em;
+    cursor:pointer;
+    font-size:1em;
+}
+
+.deleteButton{
+    background: red;
+}
+
+.todoItem{
+    padding:0em 0.5em;
+}
+
+.fa-trash, .fa-check{
+    pointer-events:none; /*fixes button so you can press whole button including icon*/
+}
+
+.completed{
+    text-decoration: line-through;
+    opacity:0.5;
+}
+
+.fall{
+    transform: translateY(8em) rotateZ(20deg);
+    opacity:0;
+}
+
+select{
+    -webkit-appearance: none; /*Gets rid of default styling*/
+    -moz-appearance: none;
+    appearance: none;
+    outline: none;
+    border:none;
+    box-shadow: none;
+}
+
+.select{
+    margin: 1em;
+    position: relative;
+    overflow: hidden;
+}
+
+select{
+    color: dodgerblue;
+    width:10em;
+    cursor:pointer;
+    padding:1.2em;
+}
+
+/*Customize Drop Down Arrow*/
+.select::after{
+    content: "\25BC";
+    position:absolute;
+    background: dodgerblue;
+    top:0;
+    right:0;
+    padding:1em;
+    pointer-events:none;
+    transition:all 0.3s ease;
+}
+
+/*Customize Drop Down Arrow*/
+.select:hover:after{
+    background:white;
+    color:dodgerblue;
+
+}
