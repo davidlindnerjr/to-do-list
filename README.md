@@ -1,10 +1,10 @@
-# title 
+# readMe Generator Project 
 --- 
 ## Description
 --- 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-description 
+enewnwegwenfkenwnewkfewfnewkfekfekfmkmfewkmfkewmfkemfkemfkwemfkwemfkemfkwemfkemfkmwefkmfkmfkemfkemfkwemfkmfkmekfmekmfkemfekmfwlmfklemfkwemfkmefkwemkfmewkfmkfmekfmklm 
 
 ## Table Of Contents 
 --- 
@@ -15,27 +15,33 @@ description
 - [Tests](#tests) 
 - [Questions](#questions) 
 
-<a name="installation"></a>## Installation 
+<a name="installation"></a>
+## Installation 
 --- 
-install 
+Download the from repository, npm install packages, run index.js is console 
 
-<a name="usage"></a>## Usage 
+<a name="usage"></a>
+## Usage 
 --- 
-usage
+Generate a good readMe
 
-<a name="license"></a>##Licensing 
+<a name="license"></a>
+## Licensing 
 --- 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-<a name="contributing"></a>## Contributing 
+<a name="contributing"></a>
+## Contributing 
 --- 
 me 
 
-<a name="tests"></a>## Tests 
+<a name="tests"></a>
+## Tests 
 --- 
-tests A+ 
+A+ 
 
-<a name="questions"></a>## Questions 
+<a name="questions"></a>
+## Questions 
 --- 
 davidlindnerjr
 
