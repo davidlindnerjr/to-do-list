@@ -1,10 +1,11 @@
-# The BEST Read Me Generator 
+
+# This is the super cool title of my ReadME 
  
 ## Description
  
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-This is definitely the best description that you have ever seen and will be for all of time ... maybe ... probably not, lol 
+This readMe generator will do just that, generate a cool and amazing readMe! 
 
 ## Table Of Contents 
  
@@ -18,12 +19,12 @@ This is definitely the best description that you have ever seen and will be for 
 <a name="installation"></a>
 ## Installation 
  
-Download file from repository, npm install package.json, run index.js in the terminal 
+Download file from repository, open in your favorite editor, run npm install, run index.js in terminal 
 
 <a name="usage"></a>
 ## Usage 
  
-Generate an incredible README
+This application will generate and amazing readMe
 
 <a name="license"></a>
 ## Licensing 
@@ -33,12 +34,12 @@ Generate an incredible README
 <a name="contributing"></a>
 ## Contributing 
  
-THE SOMETHING SOMETHINIG STANDARD CONTRIBUTOR 
+THE SUPER OFFICIAL ONE THAT IS THE STANDARD ONE 
 
 <a name="tests"></a>
 ## Tests 
  
-Definitely did that 
+I totally did those  
 
 <a name="questions"></a>
 ## Questions 
@@ -48,4 +49,3 @@ davidlindnerjr
 GithubLink: https://github.com/davidlindnerjr/ 
 
 davidlindnerjr@gmail.com
-
