@@ -1,13 +1,10 @@
-# readMe Generator Project 
-
-## Description
-# n 
+# The BEST Read Me Generator 
  
 ## Description
  
- Invalid License Entered. Enter new License(EX: MIT, mit, Zlib, zlib) 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-n 
+This is definitely the best description that you have ever seen and will be for all of time ... maybe ... probably not, lol 
 
 ## Table Of Contents 
  
@@ -21,33 +18,34 @@ n
 <a name="installation"></a>
 ## Installation 
  
-n 
+Download file from repository, npm install package.json, run index.js in the terminal 
 
 <a name="usage"></a>
 ## Usage 
  
-n
+Generate an incredible README
 
 <a name="license"></a>
 ## Licensing 
  
-Invalid License Entered. Enter new License(EX: MIT, mit, Zlib, zlib) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 <a name="contributing"></a>
 ## Contributing 
  
-n 
+THE SOMETHING SOMETHINIG STANDARD CONTRIBUTOR 
 
 <a name="tests"></a>
 ## Tests 
  
-n 
+Definitely did that 
 
 <a name="questions"></a>
 ## Questions 
  
-n
+davidlindnerjr
 
-GithubLink: https://github.com/n/ 
+GithubLink: https://github.com/davidlindnerjr/ 
 
-n
+davidlindnerjr@gmail.com
+
